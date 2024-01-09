@@ -3496,6 +3496,19 @@
   "faucets": [],
   "infoURL": "https://kalichain.com"
 }, {
+  "name": "Kalichain",
+  "chainId": 654,
+  "shortName": "kalichainMainnet",
+  "networkId": 654,
+  "nativeCurrency": {
+    "name": "kalis",
+    "symbol": "KALIS",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet.kalichain.com"],
+  "faucets": [],
+  "infoURL": "https://kalichain.com"
+}, {
   "name": "Pixie Chain Testnet",
   "chainId": 666,
   "shortName": "pixie-chain-testnet",
